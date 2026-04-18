@@ -23,7 +23,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/AzartLz/workers-compensation-prediction.git](https://github.com/AzartLz/workers-compensation-prediction.git)
+    git clone https://github.com/AzartLz/workers-compensation-prediction.git
     cd workers-compensation-prediction
     ```
 
